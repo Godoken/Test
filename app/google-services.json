@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "673359396517",
+    "firebase_url": "https://signfromfacebook.firebaseio.com",
+    "project_id": "signfromfacebook",
+    "storage_bucket": "signfromfacebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673359396517:android:8382876dc91d4910",
+        "android_client_info": {
+          "package_name": "com.example.mihailplehanov.appfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673359396517-msasjn6iruo8544esrrnje223kfme1nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mihailplehanov.appfacebook",
+            "certificate_hash": "6d11aa3b4e7173fd4ab8176daef70eac7020ee0f"
+          }
+        },
+        {
+          "client_id": "673359396517-81so83o06dl74g3eug4d0lr0m28vifvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrO8ThtbzTjlq9pPREAL3k_5iefSgrM28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673359396517-81so83o06dl74g3eug4d0lr0m28vifvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
